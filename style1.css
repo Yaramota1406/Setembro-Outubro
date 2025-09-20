@@ -1,0 +1,23 @@
+#imagem01{
+    width: 100%;
+}
+
+h1{
+    text-align: justify;
+    color: bisque;
+    font-size: 25px;
+    text-align: center;
+}
+
+p{
+    color: bisque;
+    text-align: justify;
+    font-size: 20px;
+
+}
+
+li{
+    color: bisque;
+    text-align: justify;
+    font-size: 20px;
+}
